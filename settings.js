@@ -5,9 +5,9 @@ const ownerNumber = require('./Owner/owner'); // 🔗 Example: ['923123456789']
 const config = {
   // 👑 Owner Info
   ownerNumber,                          // 🔹 Array of Owner Numbers
-  ownerName: '𓆩 𝗧𝗔𝗬𝗬𝗔𝗕 ❦︎𓆪',              // 🔹 Displayed in Greetings
-  botName: '🤖 𝗠𝗘𝗚𝗔𝐓𝐑𝐎𝐍 𝑩𝑶𝑻 ⚡',           // 🔹 Bot Display Name
-  signature: '> 𝗧𝗔𝗬𝗬𝗔𝗕 ❦ ✓',               // 🔹 Footer on Bot Replies
+  ownerName: '𝐁𝐡𝐚𝐜𝐤𝐞𝐫 ✨',              // 🔹 Displayed in Greetings
+  botName: '🤖 𝐁𝐇𝐀𝐂𝐊𝐄𝐑 𝐁𝐎𝐓 ⚡',           // 🔹 Bot Display Name
+  signature: '> 𝐁𝐡𝐚𝐜𝐤𝐞𝐫 ❦ ✓',               // 🔹 Footer on Bot Replies
   youtube: 'https://www.youtube.com/@TayyabExploitZ', // 🔹 Optional YouTube
 
   // ⚙️ Feature Toggles
